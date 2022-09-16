@@ -788,7 +788,7 @@ path[Attributes Style] {
 
 @media (min-width: 640px) and (max-width: 1023px)
 footer .caes-footer {
-    padding: 1rem;
+    padding: 3rem 1rem;
 }
 
 footer .caes-footer {
@@ -812,7 +812,7 @@ footer .footer-row {
 .row, .row-collapse {
     margin-left: auto;
     margin-right: auto;
-    max-width: 1400px;
+    max-width: 1000px;
     padding: 0 0.5em;
 }
 
