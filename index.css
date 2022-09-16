@@ -230,6 +230,8 @@ header .desktop-nav .dropdown {
     box-shadow: inset 0 10px 14px -10px rgb(0 0 0 / 20%);
 }
 
+/*Destaque dos itens da lista de navegação*/
+
 header .desktop-nav .dropdown a:first-child {
     border-top: 1px solid #f7f7f7;
 }
@@ -464,7 +466,7 @@ a {
 
 .banner {
     position: relative;
-    background: #004e60;
+    background: #228B22;
 }
 
 @media (min-width: 640px) and (max-width: 1023px), (min-width: 1024px)
