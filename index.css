@@ -706,7 +706,7 @@ path[Attributes Style] {
 /*Espaço entre o corpo da página e do rodapé*/
 
 .default-spacer {
-    margin-top: -10rem;
+    margin-top: -15rem;
 }
 
 @media (min-width: 640px) and (max-width: 1023px)
