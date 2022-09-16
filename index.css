@@ -469,7 +469,7 @@ a {
 }
 
 .banner .image-container {
-    background-position: 50%;
+    background-position: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     display: -webkit-box;
