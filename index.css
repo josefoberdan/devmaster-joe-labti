@@ -77,8 +77,8 @@ header .header-background {
 
 @media (min-width: 640px) and (max-width: 1023px), (min-width: 1024px)
 header .subsite-branding {
-    height: 8.9rem;
-    min-height: 9rem;
+    height: 7.9rem;
+    min-height: 8rem;
 }
 
 header .subsite-branding {
