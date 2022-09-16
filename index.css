@@ -704,7 +704,7 @@ path[Attributes Style] {
 }
 
 .default-spacer {
-    margin-top: 2rem;
+    margin-top: -3rem;
 }
 
 @media (min-width: 640px) and (max-width: 1023px)
