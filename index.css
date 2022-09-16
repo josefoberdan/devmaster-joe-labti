@@ -460,7 +460,7 @@ a {
 
 .banner {
     position: relative;
-    background: 6B8E23;
+    background: #004e60;
 }
 
 @media (min-width: 640px) and (max-width: 1023px), (min-width: 1024px)
@@ -469,7 +469,7 @@ a {
 }
 
 .banner .image-container {
-    background-position: 100%;
+    background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     display: -webkit-box;
