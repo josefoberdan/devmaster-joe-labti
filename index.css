@@ -788,7 +788,7 @@ path[Attributes Style] {
 
 @media (min-width: 640px) and (max-width: 1023px)
 footer .caes-footer {
-    padding: 3rem 1rem;
+    padding: 1rem;
 }
 
 footer .caes-footer {
@@ -799,13 +799,13 @@ footer .caes-footer {
 @media (min-width: 640px) and (max-width: 1023px)
 @supports (display:grid)
 footer .footer-row {
-    grid-template-columns: 5% 5%;
+    grid-template-columns: 66% 33;
 }
 
 @supports (display:grid)
 footer .footer-row {
     -webkit-box-pack: justify;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
     display: grid;
 }
 
