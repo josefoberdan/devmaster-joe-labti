@@ -464,6 +464,8 @@ a {
 
 /*Título principal da página*/
 
+/*Cor de fundo do título principal*/
+
 .banner {
     position: relative;
     background: #008000;
@@ -706,7 +708,8 @@ path[Attributes Style] {
 /*Espaço entre o corpo da página e do rodapé*/
 
 .default-spacer {
-    margin-top: -5rem;
+    margin-top: 3rem;
+	margin-bottom: 3rem;
 }
 
 @media (min-width: 640px) and (max-width: 1023px)
@@ -796,7 +799,7 @@ path[Attributes Style] {
 
 @media (min-width: 640px) and (max-width: 1023px)
 footer .caes-footer {
-    padding: 1rem -1rem;
+    padding: -5rem -1rem;
 }
 
 footer .caes-footer {
