@@ -466,7 +466,7 @@ a {
 
 .banner {
     position: relative;
-    background: #228B22;
+    background: #DDD;
 }
 
 @media (min-width: 640px) and (max-width: 1023px), (min-width: 1024px)
