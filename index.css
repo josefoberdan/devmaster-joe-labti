@@ -703,8 +703,10 @@ path[Attributes Style] {
     padding: 0 0.5em;
 }
 
+/*Espaço entre o corpo da página e do rodapé*/
+
 .default-spacer {
-    margin-top: -3rem;
+    margin-top: -10rem;
 }
 
 @media (min-width: 640px) and (max-width: 1023px)
