@@ -793,13 +793,13 @@ footer .caes-footer {
 
 footer .caes-footer {
     background: #f7f7f7;
-    border-top: 4px solid #d1d1d1;
+    border-top: 1px solid #d1d1d1;
 }
 
 @media (min-width: 640px) and (max-width: 1023px)
 @supports (display:grid)
 footer .footer-row {
-    grid-template-columns: 66% 33%;
+    grid-template-columns: 33% 33%;
 }
 
 @supports (display:grid)
