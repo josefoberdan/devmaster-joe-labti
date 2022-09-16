@@ -788,18 +788,18 @@ path[Attributes Style] {
 
 @media (min-width: 640px) and (max-width: 1023px)
 footer .caes-footer {
-    padding: 3rem 1rem;
+    padding: 2rem 1rem;
 }
 
 footer .caes-footer {
     background: #f7f7f7;
-    border-top: 1px solid #d1d1d1;
+    border-top: 4px solid #d1d1d1;
 }
 
 @media (min-width: 640px) and (max-width: 1023px)
 @supports (display:grid)
 footer .footer-row {
-    grid-template-columns: 33% 33%;
+    grid-template-columns: 22% 22%;
 }
 
 @supports (display:grid)
