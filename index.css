@@ -233,7 +233,7 @@ header .desktop-nav .dropdown {
 /*Destaque dos itens da lista de navegação*/
 
 header .desktop-nav .dropdown a:first-child {
-    border-top: 1px solid #f7f7f7;
+    border-top: 1px solid #32CD32;
 }
 
 header .desktop-nav .dropdown a {
@@ -276,7 +276,7 @@ header nav .nav-item {
 }
 
 header .desktop-nav .nav-item .active {
-    background: #FFA07A!important;
+    background: #32CD32!important;
     color: #3e3e3e!important;
 }
 
