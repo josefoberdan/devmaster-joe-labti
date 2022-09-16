@@ -799,7 +799,7 @@ footer .caes-footer {
 @media (min-width: 640px) and (max-width: 1023px)
 @supports (display:grid)
 footer .footer-row {
-    grid-template-columns: 66% 33;
+    grid-template-columns: 66% 33%;
 }
 
 @supports (display:grid)
