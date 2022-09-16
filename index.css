@@ -796,7 +796,7 @@ path[Attributes Style] {
 
 @media (min-width: 640px) and (max-width: 1023px)
 footer .caes-footer {
-    padding: 3rem 1rem;
+    padding: 1rem -1rem;
 }
 
 footer .caes-footer {
